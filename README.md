@@ -1,20 +1,19 @@
-## local Turistico
+## 🌍 Local Turístico
 
 Projeto desenvolvido durante a Formação Fullstack da Rocketseat (Módulo 01 - Introdução HTML e CSS)
 
-🚀 Funcionalidades
+## 🚀 Funcionalidades
 
-- Site sobre um Local Turistico e suas caracteristicas
-- Introduz HTML semantico intermediario
-- boas práticas de identação e construção de estrutura HTML
+- Página estática com informações sobre um ponto turístico
+- Imagens ilustrativas e HTML semântico
+- Estilização básica com CSS
 
-🧪 Tecnologias utilizadas
+## 🧪 Tecnologias utilizadas
 - HTML5
 - CSS3
-- JavaScript ES6+
 - Ferramentas da Rocketseat (ensino e base do projeto)
 
-Demosntração do projeto
+## Demonstração do projeto
 
 ![local turistico(1)](https://github.com/user-attachments/assets/c12bbb77-95bc-40ba-96c9-032f33c45dfb)
 
@@ -25,6 +24,6 @@ Demosntração do projeto
 ![local turistico(4)](https://github.com/user-attachments/assets/242299dc-0d03-4fb8-bd60-97171780daa5)
 
 
-📄 Licença
+## 📄 Licença
 Este projeto está licenciado sob a Licença MIT.
 Veja o arquivo LICENSE para mais detalhes.
