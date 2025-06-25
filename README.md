@@ -5,8 +5,8 @@ Projeto desenvolvido durante a Formação Fullstack da Rocketseat (Módulo 01 - 
 🚀 Funcionalidades
 
 - Site sobre um Local Turistico e suas caracteristicas
-- Introduz HTML semantico mais intermediario
-- boas práticas de identação e cosntrução de estrutura HTML
+- Introduz HTML semantico intermediario
+- boas práticas de identação e construção de estrutura HTML
 
 🧪 Tecnologias utilizadas
 - HTML5
